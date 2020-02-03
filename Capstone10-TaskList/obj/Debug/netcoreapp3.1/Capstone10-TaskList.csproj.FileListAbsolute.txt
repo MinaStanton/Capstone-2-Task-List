@@ -1,0 +1,11 @@
+C:\Users\stant\Documents\GC_CSHARP_BOOTCAMP\Labs\Capstone2-TaskList\Capstone10-TaskList\bin\Debug\netcoreapp3.1\Capstone10-TaskList.exe
+C:\Users\stant\Documents\GC_CSHARP_BOOTCAMP\Labs\Capstone2-TaskList\Capstone10-TaskList\bin\Debug\netcoreapp3.1\Capstone10-TaskList.deps.json
+C:\Users\stant\Documents\GC_CSHARP_BOOTCAMP\Labs\Capstone2-TaskList\Capstone10-TaskList\bin\Debug\netcoreapp3.1\Capstone10-TaskList.runtimeconfig.json
+C:\Users\stant\Documents\GC_CSHARP_BOOTCAMP\Labs\Capstone2-TaskList\Capstone10-TaskList\bin\Debug\netcoreapp3.1\Capstone10-TaskList.runtimeconfig.dev.json
+C:\Users\stant\Documents\GC_CSHARP_BOOTCAMP\Labs\Capstone2-TaskList\Capstone10-TaskList\bin\Debug\netcoreapp3.1\Capstone10-TaskList.dll
+C:\Users\stant\Documents\GC_CSHARP_BOOTCAMP\Labs\Capstone2-TaskList\Capstone10-TaskList\bin\Debug\netcoreapp3.1\Capstone10-TaskList.pdb
+C:\Users\stant\Documents\GC_CSHARP_BOOTCAMP\Labs\Capstone2-TaskList\Capstone10-TaskList\obj\Debug\netcoreapp3.1\Capstone10-TaskList.csprojAssemblyReference.cache
+C:\Users\stant\Documents\GC_CSHARP_BOOTCAMP\Labs\Capstone2-TaskList\Capstone10-TaskList\obj\Debug\netcoreapp3.1\Capstone10-TaskList.AssemblyInfoInputs.cache
+C:\Users\stant\Documents\GC_CSHARP_BOOTCAMP\Labs\Capstone2-TaskList\Capstone10-TaskList\obj\Debug\netcoreapp3.1\Capstone10-TaskList.AssemblyInfo.cs
+C:\Users\stant\Documents\GC_CSHARP_BOOTCAMP\Labs\Capstone2-TaskList\Capstone10-TaskList\obj\Debug\netcoreapp3.1\Capstone10-TaskList.dll
+C:\Users\stant\Documents\GC_CSHARP_BOOTCAMP\Labs\Capstone2-TaskList\Capstone10-TaskList\obj\Debug\netcoreapp3.1\Capstone10-TaskList.pdb
